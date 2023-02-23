@@ -1,7 +1,7 @@
 # Presentation
 Je m'apple Rouh, je suis dévelloppeur web. J'aime programmer et résudre des problème. Je code actuellement en js php et python.:)
 - J'aime le groupe open source.
-- Je fais des challenges sur [CodeWars] (https://www.codewars.com/users/Huor97).
+- Je fais des challenges sur [CodeWars] (https://www.codewars.com/users/Huor97)
 - Je fais des projets en groupes.
 
 <div style="width:60px ; height:60px">
