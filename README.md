@@ -1,6 +1,6 @@
 # Presentation
 Je m'apple Rouh,Je suis étudiant en dévelloppeur généraliste à Ada Tech School. J'aime programmer et résudre des problème. Je code actuellement en js php et python:)
-- J'aime le groupe open source parce qu'il est possible de colaborer librement dans différent societer Et on a accès libre dans l'open source qui permet également librement tout le monde utiliser en sécuriser les utils.
+- J'aime le groupe open source parce qu'il est possible de colaborer librement dans différent societer Et on a accès libre dans l'open source. Open source permet également librement à toutes et tous utiliser en sécuriser des utils.
 - Je fais des challenges sur [CodeWars](https://www.codewars.com/users/Huor97)
 - Je fais des projets en groupes lesquelles vous trouve dans mon répository.
 
