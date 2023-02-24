@@ -1,8 +1,8 @@
 # Presentation
-Je m'apple Rouh, je suis dévelloppeur web. J'aime programmer et résudre des problème. Je code actuellement en js php et python.:)
-- J'aime le groupe open source.
+Je m'apple Rouh,Je suis étudiant en dévelloppeur généraliste à Ada Tech School. J'aime programmer et résudre des problème. Je code actuellement en js php et python:)
+- J'aime le groupe open source parce qu'il est possible de colaborer librement dans différent societer Et on a accès libre dans l'open source qui permet également librement tout le monde utiliser en sécuriser les utils.
 - Je fais des challenges sur [CodeWars](https://www.codewars.com/users/Huor97)
-- Je fais des projets en groupes.
+- Je fais des projets en groupes lesquelles vous trouve dans mon répository.
 
 <div>
   
