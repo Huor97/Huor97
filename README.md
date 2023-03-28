@@ -22,3 +22,6 @@ Vous pouvez voir le fork de certains de mes projets de groupe dans mon Repositor
  
 <div>
 
+ <div>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huor97&theme=algolia) 
+ <div>
