@@ -3,7 +3,7 @@ Je m'appelle Rouh. Je suis étudiant dans l’école Ada Tech School, en formati
 
 Je partage la philosophie Open Source qui permet de base l’accès, l’aide et la collaboration du code en toute liberté à travers le monde. Cet accès ouvert est un véritable garant d’une meilleure sécurité des applications que nous utilisons.
 
-Je suis stimulé par les challenges sur ![](https://www.codewars.com/users/Huor97) .
+Je suis stimulé par les challenges sur <a target="_blank" rel="noreferrer" href="https://www.codewars.com/users/Huor97">CodeWars</a>
 
 Vous pouvez voir le fork de certains de mes projets de groupe dans mon Repository.
 
