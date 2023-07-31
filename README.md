@@ -1,11 +1,11 @@
 # Presentation
-Je m'appelle Rouh. Je suis étudiant dans l’école Ada Tech School, en formation de développeur généraliste. J’apprécie programmer et résoudre des problèmes. Je code actuellement en JS, PHP et React.
+<img src="https://github.com/Huor97/Huor97/blob/main/512rouh.gif" alt="rouh" width="18px" />Je m'appelle Rouh. Je suis étudiant dans l’école Ada Tech School <img src="https://github.com/Huor97/Huor97/blob/main/512casc.gif" alt="casc" width="20px"/> , en formation de développeur généraliste. J’apprécie programmer et résoudre des problèmes. Je code actuellement en JS, PHP et React.
 
-Voici mon [portfolio](https://portfolio-huor97.vercel.app/)
+Voici mon <b> [portfolio](https://portfolio-huor97.vercel.app/) </b> <img src="https://github.com/Huor97/Huor97/blob/main/512faite.gif" alt="fête" width="20px" /> <img src="https://github.com/Huor97/Huor97/blob/main/512etoil.gif" alt="etoiles" width="20px" />
 
-Je partage la philosophie Open Source qui permet de base l’accès, l’aide et la collaboration du code en toute liberté à travers le monde. Cet accès ouvert est un véritable garant d’une meilleure sécurité des applications que nous utilisons.
+Je partage la philosophie Open Source qui permet de base l’accès, l’aide et la collaboration du code en toute liberté à travers le monde<img src="https://github.com/Huor97/Huor97/blob/main/512ok.gif" alt="ok" width="18px" /> Cet accès ouvert est un véritable garant d’une meilleure sécurité des applications que nous utilisons.
 
-Je suis aussi stimulé par les challenges sur [CodeWars](https://www.codewars.com/users/Huor97)
+Je suis aussi stimulé par les challenges sur <b> [CodeWars](https://www.codewars.com/users/Huor97) </b> <img src="https://github.com/Huor97/Huor97/blob/main/512good.gif" alt="goog" width="20px" />
 
 Vous pouvez voir le fork de certains de mes projets en équipe dans mon Repository.
 
