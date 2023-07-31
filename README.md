@@ -1,12 +1,14 @@
 # Presentation
 Je m'appelle Rouh. Je suis étudiant dans l’école Ada Tech School, en formation de développeur généraliste. J’apprécie programmer et résoudre des problèmes. Je code actuellement en JS, PHP et React.
 
+Voici mon [portfolio](https://portfolio-huor97.vercel.app/)
+
 Je partage la philosophie Open Source qui permet de base l’accès, l’aide et la collaboration du code en toute liberté à travers le monde. Cet accès ouvert est un véritable garant d’une meilleure sécurité des applications que nous utilisons.
 
 Je suis stimulé par les challenges sur [CodeWars](https://www.codewars.com/users/Huor97)
 
 Vous pouvez voir le fork de certains de mes projets de groupe dans mon Repository.
-Voici mon [portfolio](https://portfolio-huor97.vercel.app/)
+
 <div>
   
   <img src="https://user-images.githubusercontent.com/70602221/221041210-b72eea9c-a954-4087-a110-ffd6b9086d56.png" width="60px">
