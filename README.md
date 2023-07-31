@@ -28,8 +28,8 @@ Vous pouvez voir le fork de certains de mes projets en équipe dans mon Reposito
   <img src="http://cliparts.co/cliparts/ATb/jr8/ATbjr89ac.png" alt="postgresql" width="47px" />
   <img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo-2048x1365.png" alt="mysql" width="60px" />
   <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="docker" width="60px" />
-  <img src="https://i2.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" alt="Agil" width="60px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GNU_and_Tux.svg/langfr-144px-GNU_and_Tux.svg.png" alt="fedora" width="60px" />
+  <img src="https://i2.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" alt="Agil" width="60px" />
   
 <div>
 
