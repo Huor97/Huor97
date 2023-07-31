@@ -1,4 +1,4 @@
-# Presentation
+# Présentation
 <img src="https://github.com/Huor97/Huor97/blob/main/512rouh.gif" alt="rouh" width="18px" />Je m'appelle Rouh. Je suis étudiant dans l’école Ada Tech School <img src="https://github.com/Huor97/Huor97/blob/main/512casc.gif" alt="casc" width="20px"/> , en formation de développeur généraliste. J’apprécie programmer et résoudre des problèmes. Je code actuellement en JS, PHP et React.
 
 Voici mon <b> [portfolio](https://portfolio-huor97.vercel.app/) </b> <img src="https://github.com/Huor97/Huor97/blob/main/512faite.gif" alt="fête" width="20px" /> <img src="https://github.com/Huor97/Huor97/blob/main/512etoil.gif" alt="etoiles" width="20px" />
