@@ -11,19 +11,19 @@ Vous pouvez voir le fork de certains de mes projets en équipe dans mon Reposito
 
 <div>
   
-  <img src="https://stgsys.net/wp-content/uploads/2012/03/html-5.png" alt="html" width="50px"/>
+  <img src="https://stgsys.net/wp-content/uploads/2012/03/html-5.png" alt="html" width="45px"/>
   
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ca92343b-1279-41bf-ae51-f72a0ad98a36/d7r1ju6-da9c1af0-4b18-49d0-b8f2-cbcae815c564.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9jYTkyMzQzYi0xMjc5LTQxYmYtYWU1MS1mNzJhMGFkOThhMzYvZDdyMWp1Ni1kYTljMWFmMC00YjE4LTQ5ZDAtYjhmMi1jYmNhZTgxNWM1NjQucG5nIn1dXX0.PLfYSI8_eWKzaHLRIdW9iplTGuGQHxKWhAmCykZwgmw" alt="css" width="60px" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ca92343b-1279-41bf-ae51-f72a0ad98a36/d7r1ju6-da9c1af0-4b18-49d0-b8f2-cbcae815c564.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9jYTkyMzQzYi0xMjc5LTQxYmYtYWU1MS1mNzJhMGFkOThhMzYvZDdyMWp1Ni1kYTljMWFmMC00YjE4LTQ5ZDAtYjhmMi1jYmNhZTgxNWM1NjQucG5nIn1dXX0.PLfYSI8_eWKzaHLRIdW9iplTGuGQHxKWhAmCykZwgmw" alt="css" width="55px" />
   
-  <img src="https://www.full-stacker.pl/assets/images/sass.png" alt="scss" width="50px" />
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/javascript_logo_icon_168607.png" alt="js" width="45px" />
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_icon_130108.png" alt="TS" width="55px" />
-  <img src="https://user-images.githubusercontent.com/70602221/223539012-ebbde31e-0105-41c4-a80b-e78e6b8a63ea.png" alt="react" width="48px" />
+  <img src="https://www.full-stacker.pl/assets/images/sass.png" alt="scss" width="43px" />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/javascript_logo_icon_168607.png" alt="js" width="35px" />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_icon_130108.png" alt="TS" width="40px" />
+  <img src="https://user-images.githubusercontent.com/70602221/223539012-ebbde31e-0105-41c4-a80b-e78e6b8a63ea.png" alt="react" width="40px" />
   <img src="https://fleek-team-bucket.storage.fleek.co/thumbnails-blog/Next.png" alt="nextjs" width="60px"/>
   <img src="https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png" alt="nodejs" width="60px"/>
-  <img src="http://verleihsystem.com/wp-content/uploads/2015/06/rest-api.png" alt="apiRest" width="60px" />
-  <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" alt="github" width="50px"/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png" alt="gitlab" width="50px"/>
+  <img src="http://verleihsystem.com/wp-content/uploads/2015/06/rest-api.png" alt="apiRest" width="50px" />
+  <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" alt="github" width="35px"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png" alt="gitlab" width="35px"/>
   
   <img src="http://cliparts.co/cliparts/ATb/jr8/ATbjr89ac.png" alt="postgresql" width="47px" />
   <img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo-2048x1365.png" alt="mysql" width="60px" />
