@@ -7,7 +7,7 @@ Je partage la philosophie Open Source qui permet de base l’accès, l’aide et
 
 Je suis aussi stimulé par les challenges sur <b> [CodeWars](https://www.codewars.com/users/Huor97) </b> <img src="https://github.com/Huor97/Huor97/blob/main/512good.gif" alt="goog" width="20px" />
 
-Vous pouvez voir le fork de certains de mes projets en équipe dans mon Repository.
+Vous pouvez voir le fork de certains de mes projets en équipe dans mon [Repository](https://github.com/Huor97?tab=repositories) <img src="https://github.com/Huor97/Huor97/blob/main/512fire.gif" alt="fire" width="20px"/>
 
 <div>
   
