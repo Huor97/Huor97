@@ -5,7 +5,7 @@ Voici mon <b> [portfolio](https://portfolio-huor97.vercel.app/) </b> <img src="h
 
 Je partage la philosophie Open Source qui permet de base l’accès, l’aide et la collaboration du code en toute liberté à travers le monde<img src="https://github.com/Huor97/Huor97/blob/main/512ok.gif" alt="ok" width="18px" /> Cet accès ouvert est un véritable garant d’une meilleure sécurité des applications que nous utilisons.
 
-Je suis aussi stimulé par les challenges sur <b> [CodeWars](https://www.codewars.com/users/Huor97) </b> <img src="https://github.com/Huor97/Huor97/blob/main/512good.gif" alt="goog" width="20px" />
+Je suis aussi stimulé par les challenges sur <b> [CodeWars](https://www.codewars.com/users/Huor97) </b> et <b> [RootMe](https://www.root-me.org/rouh?lang=fr#d448dc8023e26641552040420a82df75) </b>  <img src="https://github.com/Huor97/Huor97/blob/main/512good.gif" alt="goog" width="20px" />
 
 Vous pouvez voir le fork de certains de mes projets en équipe dans mon [Repository](https://github.com/Huor97?tab=repositories) <img src="https://github.com/Huor97/Huor97/blob/main/512fire.gif" alt="fire" width="20px"/>
 
