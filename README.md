@@ -1,5 +1,5 @@
 # Présentation
-<img src="https://github.com/Huor97/Huor97/blob/main/512rouh.gif" alt="rouh" width="18px" />Je m'appelle Rouh. Je suis étudiant dans l’école Ada Tech School <img src="https://github.com/Huor97/Huor97/blob/main/512casc.gif" alt="casc" width="20px"/> , en formation de développeur généraliste. J’apprécie programmer et résoudre des problèmes. Je code actuellement en JS, PHP et React.
+<img src="https://github.com/Huor97/Huor97/blob/main/512rouh.gif" alt="rouh" width="18px" />Je m'appelle Rouh. Je suis étudiant dans l’école Ada Tech School <img src="https://github.com/Huor97/Huor97/blob/main/512casc.gif" alt="casc" width="20px"/> , en formation de développeur généraliste. J’apprécie programmer et résoudre des problèmes. J’apprécie particulièrement utiliser JavaScript/TypeScript, React, NodeJS et les API Rest.
 
 Voici mon <b> [portfolio](https://portfolio-huor97.vercel.app/) </b> <img src="https://github.com/Huor97/Huor97/blob/main/512faite.gif" alt="fête" width="20px" /> <img src="https://github.com/Huor97/Huor97/blob/main/512etoil.gif" alt="etoiles" width="20px" />
 
@@ -29,7 +29,7 @@ Vous pouvez voir le fork de certains de mes projets en équipe dans mon [Reposit
   <img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo-2048x1365.png" alt="mysql" width="60px" />
   <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="docker" width="60px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GNU_and_Tux.svg/langfr-144px-GNU_and_Tux.svg.png" alt="fedora" width="60px" />
-  <img src="https://i2.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" alt="Agil" width="60px" />
+  <img src="http://navi.agency/wp-content/uploads/2015/12/Agile_Logo.png" alt="Agil" width="48px" />
   
 <div>
 
