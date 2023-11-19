@@ -1,4 +1,4 @@
-<img src="presentation-git/presentation-git.gif" alt="rouh" width="100%" />
+<img src="presentation-git/presentation-git-title.gif" alt="rouh" width="100%" />
 
 Portfolio | Codeward | Root-me | Repository
 
