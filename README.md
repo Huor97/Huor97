@@ -1,7 +1,4 @@
- <div width="100%">
-  <img src="presentation-git/title-git-presentation.png" alt="rouh" width="45%" />
- <img src="presentation-git/presentaion-title-git.gif" alt="rouh" width="45%" />
-</div>
+<img src="presentation-git/presentation-git.gif" alt="rouh" width="100%" />
 
 Portfolio | Codeward | Root-me | Repository
 
