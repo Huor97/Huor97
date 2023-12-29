@@ -4,7 +4,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huor97&theme=algolia" alt="Profile Details" style="width:100%;"/>
 
-<div style="display: flex; margin: 0; padding: 0; justify-content: center;">
+<div style="display: flex; justify-content: center;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huor97&theme=algolia" alt="Repos per Language" style="width:50%;"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huor97&theme=algolia" alt="Most Commit Language" style="width:50%;"/>
 </div>
