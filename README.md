@@ -9,6 +9,11 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huor97&theme=algolia" alt="Most Commit Language" style="width:49%;"/>
 </div>
 
+<div style="display: flex; justify-content: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huor97&theme=algolia" alt="stats" style="width:49%;"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huor97&theme=algolia&utcOffset=8" alt="productive-time" style="width:49%;"/>
+</div>
+
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huor97&theme=algolia" alt="Profile Details" style="width:40%;"/>
