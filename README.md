@@ -1,9 +1,12 @@
 # Hi I’m ROUH, Develpper Full-Stack <img src="nuxt.png" alt="nuxt" height="42px" />
 
-<img src="nuxt3.png" alt="nuxt3" width="50%" align="right" />
+<div>
+<img src="nuxt3.png" alt="nuxt3" width="250px" align="right" />
 I enjoy programming and solving problems. I particularly appreciate using Vue3, Nuxt3.
 
 I embrace the Open Source philosophy, which fundamentally promotes open access, assistance, and collaborative coding freely across the globe. This open access is a true guarantor of better security for the applications we use. 
+</div>
+
 
 <br>
 
