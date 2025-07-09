@@ -1,6 +1,6 @@
 # Hi I'm ROUH, Develpper Full-Stack <img src="nuxt.png" alt="nuxt" height="42px" />
 
-<img src="nuxt3.png" alt="nuxt3" style="position: fixed; top: 2vh; right: 20px; width: 25vw; z-index: -1;" />
+<img src="nuxt3.png" alt="nuxt3" style="position: fixed; top: 4px; right: 20px; width: 25%; z-index: -1;" />
 I enjoy programming and solving problems. I particularly appreciate using Vue3, Nuxt3.i I’m ROUH, Develpper Full-Stack
 I enjoy programming and solving problems. I particularly appreciate using Vue3, Nuxt3.
 
