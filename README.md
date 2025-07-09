@@ -7,7 +7,6 @@ I enjoy programming and solving problems. I particularly appreciate using Vue3, 
 I embrace the Open Source philosophy, which fundamentally promotes open access, assistance, and collaborative coding freely across the globe. This open access is a true guarantor of better security for the applications we use. 
 </div>
 
-
 <br>
 
 <a href="https://vuejs.org/" target="_blank"> <img align="left" src="vue3.png" alt="pytorch" height="42px"/></a>
