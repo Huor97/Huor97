@@ -57,16 +57,3 @@ I embrace the Open Source philosophy, which fundamentally promotes open access, 
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 </details>
-
-<details>
-<summary><b>:zap: &nbsp;GitHub state</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Huor97&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats-sepia-xi.vercel.app/api?username=Huor97&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21&show=prs_merged,prs_merged_percentage&hide=issues,stars&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Huor97/github-readme-stats#gh-dark-mode-only" /> <img height="137px" src="https://github-readme-stats-sepia-xi.vercel.app/api?username=Huor97&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21&show=prs_merged,prs_merged_percentage&hide=issues,stars&show_icons=true&theme=dark#gh-light-mode-only)](https://github.com/Huor97/github-readme-stats#gh-light-mode-only" />
-        <img height="137px" src="https://github-readme-stats-sepia-xi.vercel.app/api/top-langs/?username=Huor97&hide=javascript,html,css,scss&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
-</details>
-
